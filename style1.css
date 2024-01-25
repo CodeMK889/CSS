@@ -1,0 +1,25 @@
+h2{
+    background-color: aqua;
+}
+p{
+    font-size: 100px;
+    color: rgba(37, 151, 151, 0.741);
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 5px solid red;
+    height: 400px;
+    width: 300px;
+
+
+}
+
+div{
+    border: 2px solid black;
+    /* margin-top: 100px;
+    margin-left: 100px; */
+    margin: 50px 100px 50px 100px;
+    /* padding-top: 100px;
+    padding-left: 100px; */
+    padding: 100px 100px 100px 100px;
+
+}
